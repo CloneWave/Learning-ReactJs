@@ -1,0 +1,8 @@
+
+*{
+  margin: 0;
+  box-sizing: border-box;
+}
+body{
+  background: oklch(94.5% 0.129 101.54);
+}
